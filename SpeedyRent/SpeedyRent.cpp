@@ -24,3 +24,5 @@ int main() {
 cout << "sama";
 
 cout << "omar";
+
+cout << "3mk ahmed";
