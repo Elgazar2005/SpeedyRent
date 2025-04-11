@@ -1,4 +1,4 @@
-// SpeedyRent.cpp : This file contains the 'main' function. Program execution begins and ends there.
+﻿// SpeedyRent.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
 
 #include <iostream>
@@ -7,6 +7,7 @@ int main() {
     std::cout << "Hello, World!" << std::endl;
     return 0;
     cout << "hello";
+    cout << "يارب";
 }
 
 
