@@ -1,0 +1,10 @@
+ID,Make,Model,Type,Fuel/Engine,Category
+1001,Volkswagen,Golf,Hatchback,Petrol,Economy
+1002,Volkswagen,Passat,Sedan,Petrol,Standard
+1003,Volkswagen,Tiguan,SUV,Petrol,Standard
+1004,Volkswagen,Polo,Hatchback,Petrol,Economy
+1005,Volkswagen,ID.4,SUV,Electric,Premium
+2001,Toyota,Corolla,Sedan,Petrol,Economy
+2002,Toyota,RAV4,SUV,Petrol,Standard
+2003,Toyota,Fortuner,SUV,Petrol,Premium
+2004,Toyota,Hilux,Pickup,Petrol,Standard

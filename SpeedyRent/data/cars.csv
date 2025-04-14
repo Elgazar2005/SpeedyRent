@@ -1,0 +1,72 @@
+ID,Make,Model,Type,Fuel/Engine,Category,Daily Price (EGP),,Statue,Statue
+1001,Volkswagen,Golf,Hatchback,Petrol,Economy,1200,1200,Avaliable,Avaliable
+1002,Volkswagen,Passat,Sedan,Petrol,Standard,1800,1800,Avaliable,Avaliable
+1003,Volkswagen,Tiguan,SUV,Petrol,Standard,3500,3500,Avaliable,Avaliable
+1004,Volkswagen,Polo,Hatchback,Petrol,Economy,1000,1000,Avaliable,Avaliable
+1005,Volkswagen,ID.4,SUV,Electric,Premium,3500,3500,Avaliable,Avaliable
+2001,Toyota,Corolla,Sedan,Petrol,Economy,1100,1100,Avaliable,Avaliable
+2002,Toyota,RAV4,SUV,Petrol,Standard,2200,2200,Avaliable,Avaliable
+2003,Toyota,Fortuner,SUV,Petrol,Premium,3200,3200,Avaliable,Avaliable
+2004,Toyota,Hilux,Pickup,Petrol,Standard,2300,2300,Avaliable,Avaliable
+2005,Toyota,Yaris,Hatchback,Petrol,Economy,1050,1050,Avaliable,Avaliable
+2006,Toyota,Prius,Sedan,Hybrid,Standard,2500,2500,Avaliable,Avaliable
+2007,Toyota,Land Cruiser,SUV,Petrol,Luxury,6000,6000,Avaliable,Avaliable
+4001,Ford,Focus,Sedan,Petrol,Economy,1000,1000,Avaliable,Avaliable
+4002,Ford,Escape,SUV,Petrol,Standard,2200,2200,Avaliable,Avaliable
+5001,Nissan,Sunny,Sedan,Petrol,Economy,950,950,Avaliable,Avaliable
+5002,Nissan,X-Trail,SUV,Petrol,Standard,2100,2100,Avaliable,Avaliable
+5003,Nissan,Patrol,SUV,Petrol,Luxury,6000,6000,Avaliable,Avaliable
+7001,Jeep,Wrangler,SUV,Petrol,Premium,4500,4500,Avaliable,Avaliable
+7002,Land Rover,Range Rover,SUV,Petrol,Luxury,9000,9000,Avaliable,Avaliable
+8001,Tesla,Model 3,Sedan,Electric,Premium,5500,5500,Avaliable,Avaliable
+8002,Tesla,Model X,SUV,Electric,Luxury,7500,7500,Avaliable,Avaliable
+9050,chery,Tiggo 8pro,SUV,Petrol,Standard,2400,2400,Avaliable,Avaliable
+9051,Chery ,ARRIZO 5,Sedan,petrol,Standard,2000,2000,Avaliable,Avaliable
+9052,chery,Tiggo 7,SUV,Petrol,Luxury,2200,2200,Avaliable,Avaliable
+9053,chery,eQ7,SUV,Electric,Luxury,2700,2700,Avaliable,Avaliable
+9054,Chery,Tiggo 4pro,SUV,Electric,Standard,1500,1500,Avaliable,Avaliable
+9055,chery,Tiggo 8,SUV,Petrol,Standard,2000,2000,unavaliable,Avaliable
+9056,Chevrolet,CAPTIVA,SUV,Petrol,Standard,1550,1550,unavaliable,Avaliable
+9057,Chevrolet,OPTRA,Sedan,Petrol,Standard,1100,1100,unavaliable,Avaliable
+9058,MG ,5,Sedan,Petrol,Standard,1100,1100,unavaliable,Avaliable
+9059,MG ,ZS,SUV,Petrol,Standard,3200,3200,unavaliable,Avaliable
+9060,GEELY,Coolray,SUV,Petrol,Standard,2100,2100,unavaliable,Avaliable
+9061,Fiat,Tipo,Sedan,Petrol,Economy,850,850,unavaliable,Avaliable
+9062,Fiat,500X,SUV,Petrol,Standard,1900,1900,unavaliable,Avaliable
+9063,MG ,HS,SUV,Petrol,Premium,2800,2800,unavaliable,Avaliable
+9064,Rang rover,Velar,SUV,Petrol,Luxury,8500,8500,unavaliable,Avaliable
+9065,Maserati,Ghibli,Sedan,Petrol,Luxury,9500,9500,unavaliable,Avaliable
+9066,Tesla,S,Sedan,Electric,Luxury,7500,7500,unavaliable,Avaliable
+9067,Toyota,Fortuner,SUV,Petrol,Premium,3200,3200,unavaliable,Avaliable
+9068,Toyota,Yaris,Hatchback,Petrol,Economy,1050,1050,unavaliable,Avaliable
+9069,Toyota,Prius,Sedan,Hybrid,Economy,2500,2500,unavaliable,Avaliable
+9070,Toyota,Land Cruiser,SUV,Petrol,Luxury,6000,6000,unavaliable,Avaliable
+9071,Hyundai,Elantra,Sedan,Petrol,Economy,1050,1050,unavaliable,Avaliable
+9072,Hyundai,Tucson,SUV,Petrol,Standard,2100,2100,unavaliable,Avaliable
+9073,Hyundai,ACCENT,Sedan,Petrol,Economy,950,950,unavaliable,Avaliable
+9074,Hyundai,Santa fe,SUV,Petrol,Standard,2400,2400,unavaliable,Avaliable
+9075,Hyundai,IONNIQ 5,SUV,Electric,Premium,3600,3600,unavaliable,Avaliable
+9076,BMW,3 Series,Sedan,Petrol,Luxury,4200,4200,unavaliable,Avaliable
+9077,Mercedes,C-Glass,Sedan,Petrol,Luxury,4500,4500,unavaliable,Avaliable
+9074,Audi,A4,Sedan,Petrol,Luxury,4300,4300,unavaliable,Avaliable
+9075,Lexus,ES,Sedan,Petrol,Luxury,5800,5800,unavaliable,Avaliable
+9076,Audi,Q3,SUV,Petrol,Luxury,4600,4600,unavaliable,Avaliable
+9077,Audi,Q7,SUV,Petrol,Luxury,5000,5000,unavaliable,Avaliable
+9078,Porsche,Cayenne,SUV,Petrol,Luxury,9000,9000,unavaliable,Avaliable
+9079,BMW,3 Series,Sedan,Petrol,Luxury,4200,4200,unavaliable,Avaliable
+9080,BMW,I4,Sedan,Petrol,Luxury,8500,8500,unavaliable,Avaliable
+9081,Mercedes,EQS,Sedan,Electric,Luxury,6000,6000,unavaliable,Avaliable
+9082,Tesla,Model 3,Sedan,Electric,Premium,5800,5800,unavaliable,Avaliable
+9083,Tesla,Model Y ,SUV,Electric,Premium,6500,6500,Avaliable,Avaliable
+9084,Tesla,Model X,SUV,Electric,Luxury,7500,7500,Avaliable,Avaliable
+9085,Kia,Picanto,Hatchback,Petrol,Economy,900,900,Avaliable,Avaliable
+9086,Kia,Sportage,SUV,Petrol,Standard,2150,2150,Avaliable,Avaliable
+9087,Kia,EV6,SUV,Electric,Premium,3700,3700,Avaliable,Avaliable
+9088,Kia,Cerato,SUV,Petrol,Standard,1900,1900,Avaliable,Avaliable
+9089,Ford,Focus,Sedan,Petrol,Economy,1000,1000,Avaliable,Avaliable
+9090,Ford,Escape,SUV,Petrol,Standard,2000,2200,Avaliable,Avaliable
+9091,Ford,Mustang ,coupe,Petrol,Premium,4500,4500,Avaliable,Avaliable
+9092,Peugeot,3008,SUV,Petrol,Standard,2700,2700,Avaliable,Avaliable
+9093,Peugeot,508,Sedan,Petrol,Standard,2500,2500,Avaliable,Avaliable
+9094,Peugeot,208,Sedan,Petrol,Economy,1000,1000,Avaliable,Avaliable
+9095,Porsche,911,Sedan,Petrol,Luxury,5500,5500,Avaliable,Avaliable
